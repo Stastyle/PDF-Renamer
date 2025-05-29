@@ -1,3 +1,7 @@
+# PDFRenamer.py
+#copyright (c) 2025 Stas Meirovich
+# version 1.0.0
+
 import os
 import tkinter as tk
 import sys # Add this import
