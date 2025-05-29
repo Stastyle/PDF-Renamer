@@ -1,5 +1,5 @@
 # PDFRenamer.py
-#copyright (c) 2025 Stas Meirovich
+# copyright (c) 2025 Stas Meirovich
 # version 1.0.0
 
 import os
